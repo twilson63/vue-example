@@ -11,3 +11,10 @@ has some impressive benchmark numbers.
 1. clone
 2. `npm install`
 3. `npm start`
+
+## Dependencies
+
+1. [Node.js](http://nodejs.org)
+2. Bower - `npm install bower -g`
+3. Atomify - `npm install atomify -g`
+
